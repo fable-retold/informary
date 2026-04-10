@@ -69,9 +69,9 @@ Populate form elements from a JavaScript object.
 |-----------|------|-------------|
 | `pRecordObject` | `Object` | Source data object |
 | `fCallback` | `Function` | Callback invoked when marshalling is complete |
-| `pParentPropertyAddress` | `String` | Internal — parent path for recursion |
-| `pContainerPropertyAddress` | `String` | Internal — container path for array elements |
-| `pContainerIndex` | `String` | Internal — array index for container elements |
+| `pParentPropertyAddress` | `String` | Internal -- parent path for recursion |
+| `pContainerPropertyAddress` | `String` | Internal -- container path for array elements |
+| `pContainerIndex` | `String` | Internal -- array index for container elements |
 
 ```javascript
 informary.marshalDataToForm(

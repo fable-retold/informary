@@ -24,8 +24,8 @@ If `recoveryState` is `false`, there is no recovery data and you proceed to mars
 
 If recovery data exists, present the user with a choice:
 
-- **Restore Lost Changes** — Call `restoreRecoveryScenarioData(callback)` to push the recovered form state back into the DOM
-- **Discard Recovery** — Call `clearRecoveryScenarioData()` and proceed with the fresh server data
+- **Restore Lost Changes** -- Call `restoreRecoveryScenarioData(callback)` to push the recovered form state back into the DOM
+- **Discard Recovery** -- Call `clearRecoveryScenarioData()` and proceed with the fresh server data
 
 ### 4. Marshal Server Data to Form
 
