@@ -1,7 +1,7 @@
 {
 	"Name": "informary",
-	"Version": "2.0.23",
+	"Version": "2.0.24",
 	"Description": "Informary form data marshaling library.",
-	"GeneratedAt": "2026-04-10T17:24:07.548Z",
-	"GitCommit": "f218cc6"
+	"GeneratedAt": "2026-05-22T05:42:30.122Z",
+	"GitCommit": "91cfbef"
 }
