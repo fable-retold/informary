@@ -1,5 +1,7 @@
 # Informary
 
+> **[&#9654; Read the Informary Documentation](https://stevenvelozo.github.io/informary/)** &mdash; interactive docs with the full API reference.
+
 A browser forms data marshalling library that synchronizes HTML form data with JavaScript objects. Provides two-way binding via `data-i-*` attributes, transaction storage with localStorage, and undo/redo snapshot rings with field-level change detection.
 
 [![Build Status](https://github.com/stevenvelozo/informary/workflows/Informary/badge.svg)](https://github.com/stevenvelozo/informary/actions)
