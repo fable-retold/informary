@@ -37,9 +37,9 @@
   "author": "steven velozo <steven@velozo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stevenvelozo/informary/issues"
+    "url": "https://github.com/fable-retold/informary/issues"
   },
-  "homepage": "https://github.com/stevenvelozo/informary#readme",
+  "homepage": "https://github.com/fable-retold/informary#readme",
   "devDependencies": {
     "@testing-library/dom": "^8.13.0",
     "async": "^3.2.3",

@@ -1,10 +1,10 @@
 # Informary
 
-> **[&#9654; Read the Informary Documentation](https://stevenvelozo.github.io/informary/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Informary Documentation](https://fable-retold.github.io/informary/)** &mdash; interactive docs with the full API reference.
 
 A browser forms data marshalling library that synchronizes HTML form data with JavaScript objects. Provides two-way binding via `data-i-*` attributes, transaction storage with localStorage, and undo/redo snapshot rings with field-level change detection.
 
-[![Build Status](https://github.com/stevenvelozo/informary/workflows/Informary/badge.svg)](https://github.com/stevenvelozo/informary/actions)
+[![Build Status](https://github.com/fable-retold/informary/workflows/Informary/badge.svg)](https://github.com/fable-retold/informary/actions)
 [![npm version](https://badge.fury.io/js/informary.svg)](https://badge.fury.io/js/informary)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -54,7 +54,7 @@ informary.marshalFormToData(record, () =>
 
 Informary uses HTML `data-i-*` attributes to map form elements to paths in a JavaScript object tree. The `data-i-form` attribute identifies which form an element belongs to, and `data-i-datum` provides the dot-notation path into the data object.
 
-![Usage Lifecycle](https://github.com/stevenvelozo/informary/raw/master/diagrams/ComplexFlow.png)
+![Usage Lifecycle](https://github.com/fable-retold/informary/raw/master/diagrams/ComplexFlow.png)
 
 ## Data Attributes
 
@@ -78,9 +78,9 @@ Full documentation is available in the [docs](./docs) folder:
 
 Informary is designed to work with other Pict packages for building form-driven applications:
 
-- [pict](https://github.com/stevenvelozo/pict) - UI framework
-- [pict-provider](https://github.com/stevenvelozo/pict-provider) - Provider base class
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [pict](https://github.com/fable-retold/pict) - UI framework
+- [pict-provider](https://github.com/fable-retold/pict-provider) - Provider base class
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## Testing
 
@@ -112,9 +112,9 @@ npm run build-compatible
 
 ## Related Packages
 
-- [pict](https://github.com/stevenvelozo/pict) - MVC application framework
-- [cachetrax](https://github.com/stevenvelozo/cachetrax) - Caching service
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [pict](https://github.com/fable-retold/pict) - MVC application framework
+- [cachetrax](https://github.com/fable-retold/cachetrax) - Caching service
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## License
 

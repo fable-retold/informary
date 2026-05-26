@@ -2,7 +2,7 @@
 
 The diagram below shows the expected usage flow for Informary in a typical form-driven application. It covers the full cycle from loading server data, through editing and snapshotting, to reading data back for submission.
 
-![Informary Usage Lifecycle](https://github.com/stevenvelozo/informary/raw/master/diagrams/ComplexFlow.png)
+![Informary Usage Lifecycle](https://github.com/fable-retold/informary/raw/master/diagrams/ComplexFlow.png)
 
 ## Lifecycle Steps
 
