@@ -1,6 +1,6 @@
 # Informary
 
-> **[&#9654; Read the Informary Documentation](https://fable-retold.github.io/informary/)** &mdash; interactive docs with the full API reference.
+> **[Read the Informary Documentation](https://fable-retold.github.io/informary/)** - interactive docs with the full API reference.
 
 A browser forms data marshalling library that synchronizes HTML form data with JavaScript objects. Provides two-way binding via `data-i-*` attributes, transaction storage with localStorage, and undo/redo snapshot rings with field-level change detection.
 
