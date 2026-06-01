@@ -4,9 +4,7 @@
 
 A browser forms data marshalling library that synchronizes HTML form data with JavaScript objects. Provides two-way binding via `data-i-*` attributes, transaction storage with localStorage, and undo/redo snapshot rings with field-level change detection.
 
-[![Build Status](https://github.com/fable-retold/informary/workflows/Informary/badge.svg)](https://github.com/fable-retold/informary/actions)
-[![npm version](https://badge.fury.io/js/informary.svg)](https://badge.fury.io/js/informary)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[informary on npm](https://www.npmjs.com/package/informary) | [MIT License](LICENSE)
 
 ---
 
